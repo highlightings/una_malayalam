@@ -2,7 +2,7 @@
 -- General section.
 --
 SET @sName = 'mvive_ml';
-INSERT INTO `sys_localization_languages`(`Name`, `Flag`, `Title`, `Enabled`) VALUES('ml', 'ml', 'Malayalam', '0');
+INSERT INTO `sys_localization_languages`(`Name`, `Flag`, `Title`, `Enabled`) VALUES('ml', 'in', 'Malayalam', '0');
 
 
 --

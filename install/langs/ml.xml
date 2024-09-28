@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources name="ml" flag="ml" title="Malayalam">
+	<string name="_mvive_ml_wgt_cpt"><![CDATA[Malayalam]]></string>
+	<string name="_mvive_ml_stg_cpt_type"><![CDATA[Malayalam]]></string>
+	<string name="_mvive_ml_stg_cpt_category_system"><![CDATA[General]]></string>
+</resources>

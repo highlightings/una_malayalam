@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright (c) UNA, Inc - https://mvive.com
+ * Copyright (c) MVIVE, Inc - https://mvive.com
  * MIT License - https://opensource.org/licenses/MIT
  *
  * @defgroup    Malayalam
@@ -17,12 +17,12 @@ $aConfig = array(
     'name' => 'mvive_ml',
     'title' => 'Malayalam',
     'note' => 'Language file',
-    'version' => '0.0.2',
+    'version' => '0.0.3',
     'vendor' => 'Mvive',
     'help_url' => 'http://mvive.com/',
 
     'compatible_with' => array(
-        '13.1.0-RC3'
+        '14.0.0-B2'
     ),
 
     /**
